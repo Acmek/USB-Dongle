@@ -18,6 +18,7 @@ ON and OFF states
 Pressing the button once turns the dongle ON and OFF. An LED will flash to indicate
 its state: TWICE for ON, ONCE for OFF.
 
+
 Case Assembly
 =====
-The case can be 3D printed and requires 2 1.5mm screws.
+The case can be 3D printed and requires 2 M1.2 screws.
